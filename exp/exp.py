@@ -1,0 +1,2 @@
+import cowsay
+print("F")
