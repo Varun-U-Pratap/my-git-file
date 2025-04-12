@@ -1,2 +1,2 @@
-import cowsay
-print("F")
+import cowsay as cs
+cs.cow("Hello,")
